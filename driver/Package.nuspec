@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>P412Driver</id>
+    <version>3.23.0</version>
+    <authors>ryanp</authors>
+    <owners>ryanp</owners>
+    <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Drivers for the P412 Audio interface</description>
+    <releaseNotes>This release adds support for multiple stereo audio devices within the windows driver.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>P412 Driver Stereo Windows</tags>
+    <dependencies>
+      <!--<dependency id="SampleDependency" version="1.0" />-->
+    </dependencies>
+  </metadata>
+</package>

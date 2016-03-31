@@ -8,7 +8,9 @@
     <owners>SYSTEM</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>JAVS ComputerManagement Assembly</description>
-    <copyright>Copyright ©  2016, JAVS</copyright>
-    <dependencies />
+    <copyright>Copyright ï¿½  2016, JAVS</copyright>
+    <dependencies>
+      <dependency id="JAVS.Controls" version="7.6.6" />
+    </dependencies>
   </metadata>
 </package>
